@@ -1,0 +1,12 @@
+{
+  "version": "0.1.2",
+  "notes": "Initial release of the application.",
+  "pub_date": "2025-03-08T12:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRelRzT1pTVXV3eW1aTnFkZ29pQTRSZEVkZVYxdTQzUUFvQXVaNE9KLzNqNWlYVW5DeDBieGc3bWY1VXQyMkY2clA2WmZUWThSRC94OHBVWTVxME00S2Q5a3Byek4yQ1F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQxNTExNjgxCWZpbGU6c21pbGVzLWZyb250ZW5kXzAuMS4yX3g2NC1zZXR1cC5leGUKd2gwYUxoWEo5M3ZFSmxORkYvSWR3am4vMDE5OGx3Mjl1dHFzU2tmRURCczg2Wnc3dkhYVjVPdlAzMnp6K2Q5ZFpwWHdweGxJWFE3UFJvRkl5UTRSQ0E9PQo=",
+      "url": "http://5.183.11.89:8080/api/public/dl/97KWSwdE/srv/versions/smiles-frontend_0.1.2_x64-setup.exe"
+    }
+  }
+}
+v
